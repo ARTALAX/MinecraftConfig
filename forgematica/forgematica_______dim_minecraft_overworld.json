@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "SIMPLE",
+    "current": "C:\\Users\\Light Flight PC\\AppData\\Roaming\\ElyPrismLauncher\\instances\\1.20.1(4)\\.minecraft\\config\\forgematica\\area_selections_per_world\\_____\\area_selections\\Винодельня ФИНААЛ.json"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 3,
+    "layer_above": 1,
+    "layer_below": 1,
+    "layer_range_min": 0,
+    "layer_range_max": 2,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -964,
+          81,
+          -177
+        ],
+        "pos2": [
+          -6303,
+          212,
+          -3406
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}
