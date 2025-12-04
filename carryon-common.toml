@@ -36,7 +36,7 @@
 	#Use Whitelist instead of Blacklist for Entities
 	useWhitelistEntities = false
 	#Use Whitelist instead of Blacklist for Stacking
-	useWhitelistStacking = false
+	useWhitelistStacking = true
 	#Whether the player can hit blocks and entities while carrying or not
 	hitWhileCarrying = false
 	#Whether the player drops the carried object when hit or not

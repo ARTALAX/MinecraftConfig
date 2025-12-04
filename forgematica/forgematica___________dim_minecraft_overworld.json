@@ -4,7 +4,7 @@
   },
   "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "operation_mode": "DELETE",
   "render_range": {
     "mode": "ALL",
     "axis": "y",
@@ -27,9 +27,9 @@
           0
         ],
         "pos2": [
-          0,
-          0,
-          0
+          263,
+          65,
+          123
         ],
         "name": "Unnamed"
       }

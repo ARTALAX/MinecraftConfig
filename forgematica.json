@@ -301,7 +301,7 @@
       "keys": "V"
     },
     "togglePrintingMode": {
-      "keys": "CAPS_LOCK"
+      "keys": "END"
     }
   },
   "InfoOverlays": {

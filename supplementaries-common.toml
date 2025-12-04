@@ -190,7 +190,7 @@
 			"quark:dirty_glass" = "minecraft:glass"
 
 	[functional.cannon]
-		enabled = true
+		enabled = false
 		#Cannon fire power multiplier
 		#Range: 0.0 ~ 5.0
 		fire_power = 0.6
@@ -206,7 +206,7 @@
 		explode_tnt = "IGNITE"
 
 		[functional.cannon.cannonball]
-			enabled = true
+			enabled = false
 			#Cannonball power scaling. Higher values will make cannonballs have more energy. Reminder that the damage and breaking power of a cannonball is proportional to its energy (speed squared) times this constant
 			#Range: 0.0 ~ 100.0
 			power_scaling = 3.5

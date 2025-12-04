@@ -35,9 +35,9 @@
 "betterarcheology:radiance_totem",
 "betternether:pig_statue_respawner",
 "galosphere:saltbound_tablet",
-"galosphere:enfeeble",
-"galosphere:sustain",
-"galosphere:rupture"
+"alexsmobs:skelewag_sword"
+
+
 ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -46,7 +46,11 @@
   // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
   // 	
   // 	 You can also use regular expressions by starting the value with !
-  "blacklisted_nbt": [],
+  "blacklisted_nbt": [
+"galosphere:rupture",
+"galosphere:sustain",
+"galosphere:enfeeble"
+],
   // -----------------------------------------------------------
   // Items here will not be able to be right-clicked (Interact)
   //    Example: minecraft:apple
