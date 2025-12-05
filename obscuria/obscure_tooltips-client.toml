@@ -12,6 +12,9 @@ shadowsEnabled = true
 #The opacity of the drop shadows.
 #Range: 0.0 ~ 1.0
 shadowOpacity = 0.3
+#Whether to show a hint about enabling the built-in Vibrant Tooltips resource pack on game start.
+#Automatically disabled after being shown once.
+showVibrantTooltipsHint = false
 
 [AutoWrapping]
 	#Whether Obscure Tooltips should wrap lines in tooltips.
