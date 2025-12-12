@@ -9,9 +9,9 @@
 		highlight_time_factor: 1.0,
 		show_container_names_in_results: true,
 		container_name_label_scale: 1.0,
-		random_scheme: true,
-		colour_scheme: "PRIDE",
-		solid_colour: -4531627,
+		random_scheme: false,
+		colour_scheme: "SOLID",
+		solid_colour: -5924206,
 		compatibility: {
 			recipe_book_support: true,
 			jei_support: true,
@@ -28,7 +28,7 @@
 		command_aliases: [
 			"whereis"
 		],
-		fadeout_time_ticks: 300,
+		fadeout_time_ticks: 200,
 		debug: {
 			enable_default_searchers: true,
 			print_search_time: false,

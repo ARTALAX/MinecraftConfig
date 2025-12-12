@@ -169,7 +169,7 @@
       "keys": "M,BUTTON_3"
     },
     "renderInfoOverlay": {
-      "keys": "I"
+      "keys": ""
     },
     "renderOverlayThroughBlocks": {
       "keys": "RIGHT_CONTROL"

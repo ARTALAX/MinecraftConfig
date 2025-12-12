@@ -5,13 +5,13 @@
 		autocomplete_shows_regular_names: true,
 		show_resize_widget: true,
 		grid_width: 9,
-		grid_height: 6,
+		grid_height: 7,
 		hide_memory_ids: true,
 		item_list_text_scale: 0,
 		use_custom_name_in_g_u_is: true,
 		inventory_button: {
-			enabled: true,
-			show_extra: true,
+			enabled: false,
+			show_extra: false,
 			always_show_extra: false,
 			show_export: false
 		}
