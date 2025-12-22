@@ -257,6 +257,9 @@
 			argillite = true
 			chalk = true
 
+		[types.stone_type.naturalist]
+			shellstone = true
+
 #Disables specific entries
 [entries]
 
