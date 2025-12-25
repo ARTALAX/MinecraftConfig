@@ -179,12 +179,12 @@
     "curseForgeHash": 4219091737,
     "modrinthHash": "8ed877e61adf550c68aa4fc75d163ff97c0c5006"
   },
-  "bc_particle-0.0.3-forge-1.20.1.jar": {
-    "jarName": "bc_particle-0.0.3-forge-1.20.1.jar",
+  "bc_particle-0.0.4-forge-1.20.1.jar": {
+    "jarName": "bc_particle-0.0.4-forge-1.20.1.jar",
     "modId": "bc_particle",
-    "version": "0.0.3-forge-1.20.1",
-    "curseForgeHash": 585406590,
-    "modrinthHash": "ccdcb4b2ac1ed14b732ee6ab037565d697aacea1"
+    "version": "0.0.4-forge-1.20.1",
+    "curseForgeHash": 4270253886,
+    "modrinthHash": "924f355dbcd54b99462084ce37c578b86a75b865"
   },
   "bclib-3.0.14.jar": {
     "jarName": "bclib-3.0.14.jar",
@@ -546,12 +546,12 @@
     "curseForgeHash": 4068649287,
     "modrinthHash": "a625f5b0e377597f7c884768ea8b9d0a81206831"
   },
-  "CrashAssistant-forge-1.19-1.20.1-1.10.27.jar": {
-    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.27.jar",
+  "CrashAssistant-forge-1.19-1.20.1-1.10.28.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.28.jar",
     "modId": "crash_assistant",
-    "version": "1.10.27",
-    "curseForgeHash": 2406153781,
-    "modrinthHash": "4cc9d9e8cb0e615258acc7e81d27be10d34ae840"
+    "version": "1.10.28",
+    "curseForgeHash": 2399972476,
+    "modrinthHash": "ff33e66ea1d828f0a5de39cf31d765e75d0a3859"
   },
   "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar": {
     "jarName": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
@@ -595,12 +595,12 @@
     "curseForgeHash": 2733385113,
     "modrinthHash": "7c69c82603c4797616fc7f4aed07062dd0afe203"
   },
-  "CustomSkinLoader_ForgeV2-14.26.1.jar": {
-    "jarName": "CustomSkinLoader_ForgeV2-14.26.1.jar",
+  "CustomSkinLoader_ForgeV2-14.27.jar": {
+    "jarName": "CustomSkinLoader_ForgeV2-14.27.jar",
     "modId": "customskinloader",
-    "version": "14.26.1",
-    "curseForgeHash": 2453148661,
-    "modrinthHash": "1b11a210d19520c79d793f1d120123eb746d0c31"
+    "version": "14.27",
+    "curseForgeHash": 2702116086,
+    "modrinthHash": "56d0f4ec643c551d071c71806d9eb83fdf5b5035"
   },
   "Delightful-1.20.1-3.7.6.jar": {
     "jarName": "Delightful-1.20.1-3.7.6.jar",
@@ -644,12 +644,12 @@
     "curseForgeHash": 1445963938,
     "modrinthHash": "4e070c6111f26d5dae328a5253a760269aa12626"
   },
-  "DistantHorizons-2.4.3-b-1.20.1-fabric-forge.jar": {
-    "jarName": "DistantHorizons-2.4.3-b-1.20.1-fabric-forge.jar",
+  "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar": {
+    "jarName": "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
     "modId": "distanthorizons",
-    "version": "2.4.3-b",
-    "curseForgeHash": 790990851,
-    "modrinthHash": "82276783c12c80fa26a7f1c00a48f8e5a98fc07f"
+    "version": "2.4.5-b",
+    "curseForgeHash": 2493566328,
+    "modrinthHash": "ce3814dd5971edda4d04c3a42ef0df5c6cf8e10d"
   },
   "do_a_barrel_roll-forge-3.5.6+1.20.1.jar": {
     "jarName": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
@@ -840,12 +840,12 @@
     "curseForgeHash": 624612361,
     "modrinthHash": "73daad79b768afd4c233811d39696053e9bbb2da"
   },
-  "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar": {
-    "jarName": "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar",
+  "ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar": {
+    "jarName": "ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar",
     "modId": "extremesoundmuffler",
     "version": "3.48",
-    "curseForgeHash": 2994900896,
-    "modrinthHash": "1c7a54e1727f2ae4b1f18e1d7feb94a38e87d00f"
+    "curseForgeHash": 382750826,
+    "modrinthHash": "3b73ae534ff7e4f9c65e78c1f868655a23ab90c7"
   },
   "fabric-api-0.92.6+1.11.14+1.20.1.jar": {
     "jarName": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
