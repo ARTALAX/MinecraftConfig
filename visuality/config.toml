@@ -9,9 +9,9 @@
 
 [waterCircle]
 	#Water Circles Enabled
-	enabled = true
+	enabled = false
 	#Water Circles Colored
-	colored = true
+	colored = false
 	#Water Circles Density
 	#Range: 0 ~ 64
 	density = 16

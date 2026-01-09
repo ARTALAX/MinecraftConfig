@@ -26,7 +26,7 @@
 	debug_save_dynamic_pack = false
 	#Enables custom Configured config screen
 	custom_configured_screen = true
-	mod_creative_tab = false
+	mod_creative_tab = true
 
 [blocks_and_items]
 	gumdrop = true
