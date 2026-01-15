@@ -51,7 +51,7 @@
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: top;
+	effect-location: hidden;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -98,7 +98,7 @@
 	/**
 	 * Which sidebar type to focus when the search is empty.
 	 */
-	empty-search-sidebar-focus: none;
+	empty-search-sidebar-focus: craftables;
 
 	/**
 	 * Whether the EMI config button should be visible.
@@ -167,12 +167,12 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: none;
+	left-sidebar-pages: favorites;
 
 	/**
 	 * The subpanels in the left sidebar
 	 */
-	left-sidebar-subpanels: none;
+	left-sidebar-subpanels: lookup-history 2;
 
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
@@ -212,7 +212,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 9, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -247,7 +247,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the top sidebar to
 	 */
-	top-sidebar-size: 9, 9;
+	top-sidebar-size: 12, 100;
 
 	/**
 	 * How much space to maintain between the top sidebar and obstructions, in pixels
@@ -310,7 +310,7 @@
 	/**
 	 * Toggle the visibility of EMI.
 	 */
-	toggle-visibility: "ctrl key.keyboard.o";
+	toggle-visibility: "key.keyboard.unknown";
 
 	/**
 	 * Focuses the search bar.
@@ -326,11 +326,13 @@
 	 * Display the recipes for creating a stack.
 	 */
 	view-recipes: "key.mouse.left";
+	view-recipes: "key.keyboard.r";
 
 	/**
 	 * Display the recipes that can be created using a stack.
 	 */
 	view-uses: "key.mouse.right";
+	view-uses: "key.keyboard.u";
 
 	/**
 	 * Favorite the item to display on the side of the screen opposite of recipies for
@@ -357,12 +359,12 @@
 	/**
 	 * Return to the previous page in EMI.
 	 */
-	back: "key.keyboard.backspace";
+	back: "key.mouse.4";
 
 	/**
 	 * Return to the next page in EMI after going back.
 	 */
-	forward: "key.keyboard.unknown";
+	forward: "key.mouse.5";
 
 	/**
 	 * When on a stack with an associated recipe:

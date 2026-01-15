@@ -4,21 +4,6 @@
 
 	[types.wood_type]
 
-		[types.wood_type.biomesoplenty]
-			fir = true
-			pine = true
-			maple = true
-			redwood = true
-			mahogany = true
-			jacaranda = true
-			palm = true
-			willow = true
-			dead = true
-			magic = true
-			umbran = true
-			hellbark = true
-			empyreal = true
-
 		[types.wood_type.vinery]
 			dark_cherry = true
 
@@ -54,6 +39,21 @@
 		[types.wood_type.crabbersdelight]
 			palm = true
 
+		[types.wood_type.biomesoplenty]
+			fir = true
+			pine = true
+			maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
 		[types.wood_type.regions_unexplored]
 			alpha = true
 			baobab = true
@@ -80,29 +80,6 @@
 			yellow_bioshroom = true
 
 	[types.leaves_type]
-
-		[types.leaves_type.biomesoplenty]
-			origin = true
-			flowering_oak = true
-			red_maple = true
-			orange_maple = true
-			yellow_maple = true
-			rainbow_birch = true
-			snowblossom = true
-			null = true
-			cypress = true
-			fir = true
-			pine = true
-			redwood = true
-			mahogany = true
-			jacaranda = true
-			palm = true
-			willow = true
-			dead = true
-			magic = true
-			umbran = true
-			hellbark = true
-			empyreal = true
 
 		[types.leaves_type.vinery]
 			grapevine = true
@@ -193,6 +170,29 @@
 		[types.leaves_type.crabbersdelight]
 			palm = true
 
+		[types.leaves_type.biomesoplenty]
+			null = true
+			origin = true
+			flowering_oak = true
+			cypress = true
+			snowblossom = true
+			rainbow_birch = true
+			fir = true
+			pine = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
 		[types.leaves_type.regions_unexplored]
 			alpha = true
 			apple_oak = true
@@ -242,23 +242,23 @@
 			violecite = true
 			umbralith = true
 
-		[types.stone_type.biomesoplenty]
-			black_sandstone = true
-			orange_sandstone = true
-			white_sandstone = true
-			brimstone = true
-
 		[types.stone_type.galosphere]
 			pink_salt = true
 			rose_pink_salt = true
 			pastel_pink_salt = true
 
+		[types.stone_type.naturalist]
+			shellstone = true
+
 		[types.stone_type.regions_unexplored]
 			argillite = true
 			chalk = true
 
-		[types.stone_type.naturalist]
-			shellstone = true
+		[types.stone_type.biomesoplenty]
+			black_sandstone = true
+			orange_sandstone = true
+			white_sandstone = true
+			brimstone = true
 
 #Disables specific entries
 [entries]
@@ -528,9 +528,6 @@
 
 	[entries.leaves_type]
 
-		[entries.leaves_type.regions_unexplored]
-			shrub = true
-
 		[entries.leaves_type.chipped]
 			frosted_leaves = true
 			orange_leaves = true
@@ -543,4 +540,7 @@
 			apple_leaves = true
 			golden_apple_leaves = true
 			white_flower_leaves = true
+
+		[entries.leaves_type.regions_unexplored]
+			shrub = true
 
