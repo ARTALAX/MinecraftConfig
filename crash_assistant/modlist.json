@@ -602,13 +602,6 @@
     "curseForgeHash": 1288931317,
     "modrinthHash": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
   },
-  "curious_armor_stands-1.20-5.1.0.jar": {
-    "jarName": "curious_armor_stands-1.20-5.1.0.jar",
-    "modId": "curious_armor_stands",
-    "version": "1.20-5.1.0",
-    "curseForgeHash": 2733385113,
-    "modrinthHash": "7c69c82603c4797616fc7f4aed07062dd0afe203"
-  },
   "CustomSkinLoader_ForgeV2-14.27.jar": {
     "jarName": "CustomSkinLoader_ForgeV2-14.27.jar",
     "modId": "customskinloader",
@@ -721,12 +714,19 @@
     "curseForgeHash": 1837556690,
     "modrinthHash": "e2c23959ded20b3cc908bf26c1ac621564f2b8c3"
   },
-  "dynamiccrosshair-9.10+1.20.1-forge.jar": {
-    "jarName": "dynamiccrosshair-9.10+1.20.1-forge.jar",
+  "dynamiccrosshair-9.3+1.20.1-forge.jar": {
+    "jarName": "dynamiccrosshair-9.3+1.20.1-forge.jar",
     "modId": "dynamiccrosshair",
-    "version": "9.10",
-    "curseForgeHash": 192034179,
-    "modrinthHash": "9ec4f7fefa33d1be77883a080f69b2bc9c521ea4"
+    "version": "9.3",
+    "curseForgeHash": 909480881,
+    "modrinthHash": "1cb1f8163eaecab8c9b0ac354dd699d4633aea46"
+  },
+  "dynamiccrosshaircompat-4.2+1.20.1.jar": {
+    "jarName": "dynamiccrosshaircompat-4.2+1.20.1.jar",
+    "modId": "dynamiccrosshaircompat",
+    "version": "4.2",
+    "curseForgeHash": 1375606763,
+    "modrinthHash": "d0be9c431917d322f7ac02f2caa6758d2449f03a"
   },
   "EasyAnvils-v8.0.2-1.20.1-Forge.jar": {
     "jarName": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
@@ -1201,6 +1201,13 @@
     "version": "1.2.2",
     "curseForgeHash": 2251334462,
     "modrinthHash": "cf42466689489348e1e3a5df00d2ce6c65dd978a"
+  },
+  "itemfig-1.20.X-0.2.7.jar": {
+    "jarName": "itemfig-1.20.X-0.2.7.jar",
+    "modId": "itemfig",
+    "version": "1.20.X-0.2.7",
+    "curseForgeHash": 1447680964,
+    "modrinthHash": "9dd6fa14eef48322aa5d0c15fcb3475fade3bf30"
   },
   "ItemPhysic_FORGE_v1.8.9_mc1.20.1.jar": {
     "jarName": "ItemPhysic_FORGE_v1.8.9_mc1.20.1.jar",

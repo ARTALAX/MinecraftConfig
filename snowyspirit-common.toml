@@ -53,10 +53,10 @@
 			#Range: 0.0 ~ 1.0
 			sand_slipperiness = 0.83
 			#Range: 0.0 ~ 1.0
-			snow_slipperiness = 0.985
+			snow_slipperiness = 0.965
 			#Used to decrease ice friction (for sleds)
 			#Range: 0.0 ~ 1.0
-			ice_slipperiness_mult = 0.97
+			ice_slipperiness_mult = 0.95
 			#Factor that will be added to a block slipperiness when the sled is considered on a slope (angled down) This is also scaled by the slope angle, applying the full number at 45 degrees. This config alters how fast sleds go down slopes
 			#Range: 0.0 ~ 1.0
 			slope_slipperiness_increment = 0.06
