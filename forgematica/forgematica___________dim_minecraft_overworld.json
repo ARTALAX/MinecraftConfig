@@ -4,7 +4,7 @@
   },
   "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "DELETE",
+  "operation_mode": "AREA_SELECTION",
   "render_range": {
     "mode": "ALL",
     "axis": "y",
@@ -22,14 +22,14 @@
     "boxes": [
       {
         "pos1": [
-          0,
-          0,
-          0
+          11,
+          58,
+          123
         ],
         "pos2": [
-          263,
-          65,
-          123
+          35,
+          52,
+          110
         ],
         "name": "Unnamed"
       }

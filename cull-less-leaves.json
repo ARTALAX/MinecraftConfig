@@ -1,6 +1,4 @@
 {
   "enabled": true,
-  "depth": 3,
-  "randomRejection": 0.2,
-  "fastMangroveRootsCulling": true
+  "depth": 2
 }
