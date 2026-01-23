@@ -1,8 +1,8 @@
 {
-  "fmlloader-1.20.1-47.4.15.jar (modloader)": {
-    "jarName": "fmlloader-1.20.1-47.4.15.jar (modloader)",
+  "fmlloader-1.20.1-47.4.16.jar (modloader)": {
+    "jarName": "fmlloader-1.20.1-47.4.16.jar (modloader)",
     "modId": "forge",
-    "version": "fmlloader-1.20.1-47.4.15.jar"
+    "version": "fmlloader-1.20.1-47.4.16.jar"
   },
   "[1.19.4-1.20.1]witherswrath-1.15.1.jar": {
     "jarName": "[1.19.4-1.20.1]witherswrath-1.15.1.jar",
@@ -1271,6 +1271,13 @@
     "version": "11.10.0+forge",
     "curseForgeHash": 2396942516,
     "modrinthHash": "08059768c1d7690dab557c73faeb3dcbad851d3c"
+  },
+  "kleeslabs-forge-1.20.1-15.0.11.jar": {
+    "jarName": "kleeslabs-forge-1.20.1-15.0.11.jar",
+    "modId": "kleeslabs",
+    "version": "15.0.11",
+    "curseForgeHash": 3316742328,
+    "modrinthHash": "ca05502394ec944b1c116c56c72e577120e125f1"
   },
   "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar": {
     "jarName": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
