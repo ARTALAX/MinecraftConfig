@@ -5,6 +5,19 @@
       "name": "ARTALAXIK",
       "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
     },
+    "time": 1769159176830,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/IX2QTM94Ae"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
     "time": 1768585031633,
     "type": "Profiler (live)",
     "data": {
@@ -88,19 +101,6 @@
     "data": {
       "type": "url",
       "value": "https://spark.lucko.me/vwCelseWPW"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAX",
-      "uniqueId": "6feeef87-81b2-37ac-be1b-b8d0215b468e"
-    },
-    "time": 1764013550807,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/bphaZSCZcs"
     }
   },
   {

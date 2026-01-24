@@ -5,7 +5,7 @@
 	"isAttackInsteadOfMineWhenEnemiesCloseEnabled": true,
 	"isHighlightCrosshairEnabled": false,
 	"hudHighlightColor": 16711680,
-	"isShowingArmsInFirstPerson": true,
+	"isShowingArmsInFirstPerson": false,
 	"isShowingOtherHandFirstPerson": true,
 	"isSweepingParticleEnabled": true,
 	"isTooltipAttackRangeEnabled": true,
@@ -13,5 +13,5 @@
 	"isDebugOBBEnabled": false,
 	"swingThruGrassBlacklist": "farmersdelight",
 	"mineWithWeaponBlacklist": "",
-	"firstPersonAnimations": "AUTO"
+	"firstPersonAnimations": "NO"
 }

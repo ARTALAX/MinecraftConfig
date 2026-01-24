@@ -26,7 +26,7 @@
   "dontHoldItemsInBed": true,
   "freezeArmsInBed": true,
   "rotationLock": "NONE",
-  "limitRotationLockToFP": true,
+  "limitRotationLockToFP": false,
   "showLastUsedSword": false,
   "sheathSwords": [
     "minecraft:golden_sword",
