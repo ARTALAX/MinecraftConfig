@@ -58,7 +58,7 @@
       "stormWindStrength": 1.0,
       "rotationAmount": 0.0,
       "lifetime": 3000,
-      "opacity": 1.0,
+      "opacity": 0.5,
       "size": 1.5,
       "constantScreenSize": false,
       "renderType": "BLENDED",

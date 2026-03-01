@@ -1,7 +1,7 @@
 {
   "configVersion": 2,
   "enabledByDefault": true,
-  "xOffset": 25,
+  "xOffset": 15,
   "sneakXOffset": 25,
   "sitXOffset": 15,
   "renderStuckFeatures": false,
