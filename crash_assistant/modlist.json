@@ -553,12 +553,12 @@
     "curseForgeHash": 4068649287,
     "modrinthHash": "a625f5b0e377597f7c884768ea8b9d0a81206831"
   },
-  "CrashAssistant-forge-1.19-1.20.1-1.10.30.jar": {
-    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.30.jar",
+  "CrashAssistant-forge-1.19-1.20.1-1.11.3.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.11.3.jar",
     "modId": "crash_assistant",
-    "version": "1.10.30",
-    "curseForgeHash": 3653577162,
-    "modrinthHash": "4bb4c15ab7df481a2fd95554d06a575580b650ef"
+    "version": "1.11.3",
+    "curseForgeHash": 1127087163,
+    "modrinthHash": "ef09d8a690da525180e3655e85dceade658391b2"
   },
   "CraterLib-Forge-1.20-3.0.1.jar": {
     "jarName": "CraterLib-Forge-1.20-3.0.1.jar",
@@ -588,12 +588,12 @@
     "curseForgeHash": 3417341354,
     "modrinthHash": "71b1603071461e036a3ba2aaeeb52cc10fa3d348"
   },
-  "cupboard-1.20.1-3.0.jar": {
-    "jarName": "cupboard-1.20.1-3.0.jar",
+  "cupboard-1.20.1-3.5.jar": {
+    "jarName": "cupboard-1.20.1-3.5.jar",
     "modId": "cupboard",
-    "version": "1.20.1-3.0",
-    "curseForgeHash": 1612276170,
-    "modrinthHash": "5ed316401906d8eaf24fccf4e687b009cda39df5"
+    "version": "1.20.1-3.5",
+    "curseForgeHash": 198190624,
+    "modrinthHash": "638d720173b6a156663f84c1a6d3ac66797456fb"
   },
   "curios-forge-5.14.1+1.20.1.jar": {
     "jarName": "curios-forge-5.14.1+1.20.1.jar",
@@ -868,12 +868,12 @@
     "curseForgeHash": 1225615187,
     "modrinthHash": "cd88ace6193c3704d46a5ee8fc7d0063d2e687f6"
   },
-  "exposure-forge-1.20.1-1.9.16.jar": {
-    "jarName": "exposure-forge-1.20.1-1.9.16.jar",
+  "exposure-forge-1.20.1-1.9.18.jar": {
+    "jarName": "exposure-forge-1.20.1-1.9.18.jar",
     "modId": "exposure",
-    "version": "1.9.16",
-    "curseForgeHash": 3038763306,
-    "modrinthHash": "49e6fb1e81d80214fed8b9cfc90a52ec4b8ce4c6"
+    "version": "1.9.18",
+    "curseForgeHash": 822280422,
+    "modrinthHash": "3623be41832194e1e76125cc7a32b39a02cd7da0"
   },
   "extra_compat-1.5.25 (1).jar": {
     "jarName": "extra_compat-1.5.25 (1).jar",
@@ -1216,12 +1216,12 @@
     "curseForgeHash": 398931189,
     "modrinthHash": "9ab505edb33e3fe60274659921a2969c066e60b4"
   },
-  "jamlib-forge-1.3.5+1.20.1.jar": {
-    "jarName": "jamlib-forge-1.3.5+1.20.1.jar",
+  "jamlib-forge-1.3.6+1.20.1.jar": {
+    "jarName": "jamlib-forge-1.3.6+1.20.1.jar",
     "modId": "jamlib",
-    "version": "1.3.5+1.20.1",
-    "curseForgeHash": 2053332639,
-    "modrinthHash": "19defaf82e7ca6052abd9fcf8d5b8fa761cd96a1"
+    "version": "1.3.6+1.20.1",
+    "curseForgeHash": 1031526169,
+    "modrinthHash": "4ae73f20f5f13cd787ef23e76c0c1eb6746be5c6"
   },
   "jei-1.20.1-forge-15.20.0.129.jar": {
     "jarName": "jei-1.20.1-forge-15.20.0.129.jar",
@@ -1669,12 +1669,12 @@
     "curseForgeHash": 547177644,
     "modrinthHash": "db04a6b14b7fb219701c50907986384bca363298"
   },
-  "Patchouli-1.20.1-84.1-FORGE.jar": {
-    "jarName": "Patchouli-1.20.1-84.1-FORGE.jar",
+  "Patchouli-1.20.1-85-FORGE.jar": {
+    "jarName": "Patchouli-1.20.1-85-FORGE.jar",
     "modId": "patchouli",
-    "version": "1.20.1-84.1-FORGE",
-    "curseForgeHash": 3571975239,
-    "modrinthHash": "e91d2e2f251375d647d592b670ea6f310c2554eb"
+    "version": "1.20.1-85-FORGE",
+    "curseForgeHash": 1383309397,
+    "modrinthHash": "d4614507d6e4c7cb464bba5eca891978272062ef"
   },
   "personality-1.20.1-4.1.0.jar": {
     "jarName": "personality-1.20.1-4.1.0.jar",
@@ -1858,19 +1858,19 @@
     "curseForgeHash": 370457395,
     "modrinthHash": "71a8848197eab2b580d1f4749df362182105d0f1"
   },
-  "shieldexp-forge-1.20.1-1.3.6.jar": {
-    "jarName": "shieldexp-forge-1.20.1-1.3.6.jar",
+  "shieldexp-forge-1.20.1-1.3.7.jar": {
+    "jarName": "shieldexp-forge-1.20.1-1.3.7.jar",
     "modId": "shieldexp",
-    "version": "1.3.6",
-    "curseForgeHash": 4063575612,
-    "modrinthHash": "b9ff0c2705f9462b22dfdb89eef32f7185b08d69"
+    "version": "1.3.7",
+    "curseForgeHash": 4022537928,
+    "modrinthHash": "087e0e34864dc4f077d78026b58d440859591b37"
   },
-  "ShoulderSurfing-Forge-1.20.1-4.21.0.jar": {
-    "jarName": "ShoulderSurfing-Forge-1.20.1-4.21.0.jar",
+  "ShoulderSurfing-Forge-1.20.1-4.22.1.jar": {
+    "jarName": "ShoulderSurfing-Forge-1.20.1-4.22.1.jar",
     "modId": "shouldersurfing",
-    "version": "1.20.1-4.21.0",
-    "curseForgeHash": 4025143656,
-    "modrinthHash": "50b0a3b983292f63e0697bd94dd2bbbd80eefdda"
+    "version": "1.20.1-4.22.1",
+    "curseForgeHash": 1327672596,
+    "modrinthHash": "9fdd51554eef1f06fe9181f2d6566530c5c63625"
   },
   "shuffle-forge-9.0.0+1.20.1.jar": {
     "jarName": "shuffle-forge-9.0.0+1.20.1.jar",
@@ -2054,12 +2054,12 @@
     "curseForgeHash": 1489066515,
     "modrinthHash": "90f812020dcbbd854d4e3bab25237250f2e5f84e"
   },
-  "SubtleEffects-forge-1.20.1-1.13.2.jar": {
-    "jarName": "SubtleEffects-forge-1.20.1-1.13.2.jar",
+  "SubtleEffects-forge-1.20.1-1.14.0.jar": {
+    "jarName": "SubtleEffects-forge-1.20.1-1.14.0.jar",
     "modId": "subtle_effects",
-    "version": "1.13.2",
-    "curseForgeHash": 849545657,
-    "modrinthHash": "704e6b718c405b67296fe717f099aff72ebba8db"
+    "version": "1.14.0",
+    "curseForgeHash": 2155804880,
+    "modrinthHash": "705d88415afae9ba681c897751022edf31099c2e"
   },
   "supermartijn642configlib-1.1.8-forge-mc1.20.jar": {
     "jarName": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
