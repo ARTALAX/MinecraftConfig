@@ -1,0 +1,286 @@
+{
+  "worldgen": {
+    "_comment_00 [default: Worldgen controls for End biomes. Edit values, then restart world.]": "Worldgen controls for End biomes. Edit values, then restart world.",
+    "_comment_global_size_multiplier [default: global_size_multiplier: scales biome size globally. Default: 1.0. Possible: 0.05..16.0]": "global_size_multiplier: scales biome size globally. Default: 1.0. Possible: 0.05..16.0",
+    "_comment_global_frequency_multiplier [default: global_frequency_multiplier: scales biome spawn frequency globally. Default: 1.0. Possible: 0.0..32.0]": "global_frequency_multiplier: scales biome spawn frequency globally. Default: 1.0. Possible: 0.0..32.0",
+    "global_size_multiplier [default: 1.0]": 1.0,
+    "global_frequency_multiplier [default: 1.0]": 1.0
+  },
+  "betterend": {
+    "amber_land": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "blossoming_spires": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "chorus_forest": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "crystal_mountains": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "dragon_graveyards": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "dry_shrubland": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "dust_wastelands": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "empty_aurora_cave": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "empty_end_cave": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "empty_smaragdant_cave": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "foggy_mushroomland": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "glowing_grasslands": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "ice_starfield": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "jade_cave": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "lantern_woods": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "lush_aurora_cave": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "lush_smaragdant_cave": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "megalake": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "megalake_grove": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "neon_oasis": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "painted_mountains": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "shadow_forest": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "sulphur_springs": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "umbra_valley": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    },
+    "umbrella_jungle": {
+      "worldgen": {
+        "_comment_00 [default: Per-biome worldgen controls for End.]": "Per-biome worldgen controls for End.",
+        "_comment_enabled [default: enabled: true/false. Default: true]": "enabled: true/false. Default: true",
+        "_comment_size_multiplier [default: size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0]": "size_multiplier: biome size multiplier. Default: 1.0. Possible: 0.05..16.0",
+        "_comment_frequency_multiplier [default: frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0]": "frequency_multiplier: biome spawn frequency multiplier. Default: 1.0. Possible: 0.0..32.0",
+        "enabled [default: true]": true,
+        "size_multiplier [default: 1.0]": 1.0,
+        "frequency_multiplier [default: 1.0]": 1.0
+      }
+    }
+  }
+}
