@@ -389,13 +389,13 @@
     "curseForgeHash": 1401454647,
     "modrinthHash": "2afdc7f42b47384062012e54439c4aab90fb7063"
   },
-  "chat_heads-0.15.0-forge-1.20.jar": {
-    "jarName": "chat_heads-0.15.0-forge-1.20.jar",
+  "chat_heads-0.15.1-forge-1.20.jar": {
+    "jarName": "chat_heads-0.15.1-forge-1.20.jar",
     "modId": "chat_heads",
     "name": "Chat Heads",
-    "version": "0.15.0",
-    "curseForgeHash": 562582520,
-    "modrinthHash": "52a21207af65259adfa840e26042c28058f6513f"
+    "version": "0.15.1",
+    "curseForgeHash": 1886210089,
+    "modrinthHash": "6eebd1479d11d3ed8fbb18b866ba43b470743e00"
   },
   "chefsdelight-1.0.4-forge-1.20.1.jar": {
     "jarName": "chefsdelight-1.0.4-forge-1.20.1.jar",
@@ -469,13 +469,13 @@
     "curseForgeHash": 3126551083,
     "modrinthHash": "496393d1fc170bafccd6016cd5d93ab52b4a101c"
   },
-  "clickadv-1.20.1-3.8.jar": {
-    "jarName": "clickadv-1.20.1-3.8.jar",
+  "clickadv-1.20.1-3.9.jar": {
+    "jarName": "clickadv-1.20.1-3.9.jar",
     "modId": "clickadv",
     "name": "clickadv mod",
-    "version": "1.20.1-3.8",
-    "curseForgeHash": 2514218813,
-    "modrinthHash": "a348e4418676ed8b1ffea6c54755f1ee8656f559"
+    "version": "1.20.1-3.9",
+    "curseForgeHash": 2021901919,
+    "modrinthHash": "32f1efb2a9dfd0da147387ba496b97289bebf937"
   },
   "cloth-config-11.1.136-forge.jar": {
     "jarName": "cloth-config-11.1.136-forge.jar",
@@ -493,13 +493,13 @@
     "curseForgeHash": 3246400390,
     "modrinthHash": "607bbb82656d28ddfaa5ef2ec6e9c413859f5956"
   },
-  "collective-1.20.1-8.13.jar": {
-    "jarName": "collective-1.20.1-8.13.jar",
+  "collective-1.20.1-8.17.jar": {
+    "jarName": "collective-1.20.1-8.17.jar",
     "modId": "collective",
     "name": "Collective",
-    "version": "8.13",
-    "curseForgeHash": 1813952632,
-    "modrinthHash": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad"
+    "version": "8.17",
+    "curseForgeHash": 2360993017,
+    "modrinthHash": "9a5fcba26fb2b7b3f21b083a161d13dea6d81c3c"
   },
   "combatroll-forge-1.3.3+1.20.1.jar": {
     "jarName": "combatroll-forge-1.3.3+1.20.1.jar",
@@ -599,13 +599,13 @@
     "curseForgeHash": 4282386808,
     "modrinthHash": "843b16ca88bc5c390bb22a2a84437e6bffdd43dd"
   },
-  "corpsecurioscompat-1.20.1-Forge-3.1.3.jar": {
-    "jarName": "corpsecurioscompat-1.20.1-Forge-3.1.3.jar",
+  "corpsecurioscompat-1.20.1-Forge-4.0.1.jar": {
+    "jarName": "corpsecurioscompat-1.20.1-Forge-4.0.1.jar",
     "modId": "corpsecurioscompat",
-    "name": "corpsecurioscompat",
-    "version": "3.1.3",
-    "curseForgeHash": 314314029,
-    "modrinthHash": "3b36538ca8c6cc16982788c8e058cb726357a90c"
+    "name": "Corpse Curios Compatibility",
+    "version": "4.0.1",
+    "curseForgeHash": 1860816416,
+    "modrinthHash": "1320497f252c57bf2ac0149e7b499a9f9db74650"
   },
   "cosmeticarmorreworked-1.20.1-v1a.jar": {
     "jarName": "cosmeticarmorreworked-1.20.1-v1a.jar",
@@ -615,13 +615,13 @@
     "curseForgeHash": 3614955629,
     "modrinthHash": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea"
   },
-  "cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar": {
-    "jarName": "cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar",
+  "cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar": {
+    "jarName": "cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar",
     "modId": "cosmeticcorpsecompat",
     "name": "Cosmetic Armor x Corpse Compat",
-    "version": "1.0.0",
-    "curseForgeHash": 3407618717,
-    "modrinthHash": "68ea28d819d01251c38a9e36a4ce7487cf7b8723"
+    "version": "4.0.1",
+    "curseForgeHash": 3375014365,
+    "modrinthHash": "138cc2174d5912b2e582cc9485d68f36579a7ca7"
   },
   "crabbersdelight-1.20.1-1.2.3.jar": {
     "jarName": "crabbersdelight-1.20.1-1.2.3.jar",
@@ -959,13 +959,13 @@
     "curseForgeHash": 3172307003,
     "modrinthHash": "50768b77225043249df386abf594c95bd56ad792"
   },
-  "entityculling-forge-1.10.0-mc1.20.1.jar": {
-    "jarName": "entityculling-forge-1.10.0-mc1.20.1.jar",
+  "entityculling-forge-1.10.1-mc1.20.1.jar": {
+    "jarName": "entityculling-forge-1.10.1-mc1.20.1.jar",
     "modId": "entityculling",
     "name": "EntityCulling",
-    "version": "1.10.0",
-    "curseForgeHash": 2205338562,
-    "modrinthHash": "b7e15f04d29f4d97afff8a6ce5a0162d2a595819"
+    "version": "1.10.1",
+    "curseForgeHash": 4042303852,
+    "modrinthHash": "764617346e7231c4d3189465deefc9071f51b55e"
   },
   "etched-3.0.4.jar": {
     "jarName": "etched-3.0.4.jar",
@@ -1801,13 +1801,13 @@
     "curseForgeHash": 4155719434,
     "modrinthHash": "c68c6b34ac2ba8fd0fc1300da8f536984b0cdb1a"
   },
-  "notenoughanimations-forge-1.12.0-mc1.20.1.jar": {
-    "jarName": "notenoughanimations-forge-1.12.0-mc1.20.1.jar",
+  "notenoughanimations-forge-1.12.1-mc1.20.1.jar": {
+    "jarName": "notenoughanimations-forge-1.12.1-mc1.20.1.jar",
     "modId": "notenoughanimations",
     "name": "NotEnoughAnimations",
-    "version": "1.12.0",
-    "curseForgeHash": 4287025205,
-    "modrinthHash": "bbf826c31cb40e495e88b8679463955afd944566"
+    "version": "1.12.1",
+    "curseForgeHash": 1699199212,
+    "modrinthHash": "19df9f1f44d7c594884cf9810ac52a9a4ba13be6"
   },
   "obscure_tooltips-forge-1.20.1-3.10.0.jar": {
     "jarName": "obscure_tooltips-forge-1.20.1-3.10.0.jar",
@@ -1873,13 +1873,13 @@
     "curseForgeHash": 2971442500,
     "modrinthHash": "be88938ca5df78271e64bc9f85c3575754f33e2a"
   },
-  "packetfixer-3.3.1-1.18-1.20.4-merged.jar": {
-    "jarName": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+  "packetfixer-3.3.2-1.18-1.20.4-merged.jar": {
+    "jarName": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
     "modId": "packetfixer",
     "name": "PacketFixer",
-    "version": "3.3.1",
-    "curseForgeHash": 2235595709,
-    "modrinthHash": "0bef29023c8cadb2934d78a8b0066b49d4460974"
+    "version": "3.3.2",
+    "curseForgeHash": 1678799689,
+    "modrinthHash": "79ebc5e66a5ee3ce92afb340e693d506e97361a0"
   },
   "Paintings-forge-1.20.1-11.0.0.2.jar": {
     "jarName": "Paintings-forge-1.20.1-11.0.0.2.jar",
@@ -2153,13 +2153,13 @@
     "curseForgeHash": 4022537928,
     "modrinthHash": "087e0e34864dc4f077d78026b58d440859591b37"
   },
-  "ShoulderSurfing-Forge-1.20.1-4.22.3.jar": {
-    "jarName": "ShoulderSurfing-Forge-1.20.1-4.22.3.jar",
+  "ShoulderSurfing-Forge-1.20.1-4.22.5.jar": {
+    "jarName": "ShoulderSurfing-Forge-1.20.1-4.22.5.jar",
     "modId": "shouldersurfing",
     "name": "Shoulder Surfing Reloaded",
-    "version": "1.20.1-4.22.3",
-    "curseForgeHash": 850392207,
-    "modrinthHash": "6fd9b26951bf67097b6345e22b9e78d16efed5c2"
+    "version": "1.20.1-4.22.5",
+    "curseForgeHash": 1406323683,
+    "modrinthHash": "e3d2a2d616ed7cc77362fa5b56569a9f6d859237"
   },
   "shuffle-forge-9.0.0+1.20.1.jar": {
     "jarName": "shuffle-forge-9.0.0+1.20.1.jar",
@@ -2393,13 +2393,13 @@
     "curseForgeHash": 3016368264,
     "modrinthHash": "f80f9eed728966adcfbcc848633e789645057281"
   },
-  "supplementaries-1.20-3.1.42-forge.jar": {
-    "jarName": "supplementaries-1.20-3.1.42-forge.jar",
+  "supplementaries-1.20-3.1.43-forge.jar": {
+    "jarName": "supplementaries-1.20-3.1.43-forge.jar",
     "modId": "supplementaries",
     "name": "Supplementaries",
-    "version": "1.20-3.1.42",
-    "curseForgeHash": 2911967421,
-    "modrinthHash": "c9e2f6c813eef73843d869ff5611f155af7467fb"
+    "version": "1.20-3.1.43",
+    "curseForgeHash": 1988549846,
+    "modrinthHash": "326d65a29981de28016e3828370d68a8f63e1798"
   },
   "suppsquared-1.20-1.1.29.jar": {
     "jarName": "suppsquared-1.20-1.1.29.jar",
@@ -2569,13 +2569,13 @@
     "curseForgeHash": 2699356434,
     "modrinthHash": "563804910a7ebb1082c1eedca363b16e2c572459"
   },
-  "voicechat-forge-1.20.1-2.6.14.jar": {
-    "jarName": "voicechat-forge-1.20.1-2.6.14.jar",
+  "voicechat-forge-1.20.1-2.6.15.jar": {
+    "jarName": "voicechat-forge-1.20.1-2.6.15.jar",
     "modId": "voicechat",
     "name": "Simple Voice Chat",
-    "version": "1.20.1-2.6.14",
-    "curseForgeHash": 735817200,
-    "modrinthHash": "ba4af6395d1d858aaea6bb973661ee65fba72c07"
+    "version": "1.20.1-2.6.15",
+    "curseForgeHash": 330240396,
+    "modrinthHash": "f9b6f5d73f3990412a1ce3ca2299640b1b3ee849"
   },
   "Waves-1.20.1-1.6.1.jar": {
     "jarName": "Waves-1.20.1-1.6.1.jar",
