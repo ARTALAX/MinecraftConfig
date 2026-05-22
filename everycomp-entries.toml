@@ -242,11 +242,6 @@
 			violecite = true
 			umbralith = true
 
-		[types.stone_type.galosphere]
-			pink_salt = true
-			rose_pink_salt = true
-			pastel_pink_salt = true
-
 		[types.stone_type.naturalist]
 			shellstone = true
 

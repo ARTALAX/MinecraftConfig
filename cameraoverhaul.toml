@@ -1,6 +1,6 @@
 # Мета-данные, не модифицировать.
 # Default: 0
-configVersion = 2
+configVersion = 3
 
 [general]
 
@@ -10,6 +10,9 @@ configVersion = 2
 	# Отключите это, чтобы эффекты мода были доступны только для вида от первого лица.
 	# Default: true
 	enableInThirdPerson = true
+	# How smooth should transitions between contextual profiles such as walking and swimming be.
+	# Default: 0.1
+	contextTransitionSmoothing = 0.1
 	# Чувствительность крена камеры, вызванного поворотом по горизонтали.
 	# Default: 1.0
 	turningRollAccumulation = 1.0
@@ -67,6 +70,30 @@ configVersion = 2
 	# Плавность изменения угла наклона камеры, вызванная вертикальным перемещением.
 	# Default: 1.0
 	verticalVelocitySmoothingFactor = 1.0
+	# Controls global interpolation of the camera's pitch & yaw. Does not affect gameplay (aim).
+	# Default: 0.0
+	cameraSmoothing = 0.0
+
+[sprinting]
+
+	# Сила крена камеры, вызванной боковым движением или боковой горизонтальной скоростью.
+	# Default: 12.5
+	strafingRollFactor = 12.5
+	# Интенсивность угловых поворотов камеры, вызванных движением вперёд или назад.
+	# Default: 9.5
+	forwardVelocityPitchFactor = 9.5
+	# Интенсивность угловых поворотов камеры, вызванных вертикальной скоростью.
+	# Default: 2.5
+	verticalVelocityPitchFactor = 2.5
+	# Плавность поворота камеры по углу наклона и крену, вызванная горизонтальным перемещением.
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# Плавность изменения угла наклона камеры, вызванная вертикальным перемещением.
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+	# Controls global interpolation of the camera's pitch & yaw. Does not affect gameplay (aim).
+	# Default: 0.6
+	cameraSmoothing = 0.0
 
 [swimming]
 
@@ -85,6 +112,9 @@ configVersion = 2
 	# Плавность изменения угла наклона камеры, вызванная вертикальным перемещением.
 	# Default: 1.0
 	verticalVelocitySmoothingFactor = 1.0
+	# Controls global interpolation of the camera's pitch & yaw. Does not affect gameplay (aim).
+	# Default: 1.5
+	cameraSmoothing = 0.0
 
 [flying]
 
@@ -103,6 +133,9 @@ configVersion = 2
 	# Плавность изменения угла наклона камеры, вызванная вертикальным перемещением.
 	# Default: 1.0
 	verticalVelocitySmoothingFactor = 1.0
+	# Controls global interpolation of the camera's pitch & yaw. Does not affect gameplay (aim).
+	# Default: 1.0
+	cameraSmoothing = 0.0
 
 [mounts]
 
@@ -110,8 +143,8 @@ configVersion = 2
 	# Default: 20.0
 	strafingRollFactor = 20.0
 	# Интенсивность угловых поворотов камеры, вызванных движением вперёд или назад.
-	# Default: 7.0
-	forwardVelocityPitchFactor = 7.0
+	# Default: 3.5
+	forwardVelocityPitchFactor = 3.5
 	# Интенсивность угловых поворотов камеры, вызванных вертикальной скоростью.
 	# Default: 2.5
 	verticalVelocityPitchFactor = 2.5
@@ -121,6 +154,9 @@ configVersion = 2
 	# Плавность изменения угла наклона камеры, вызванная вертикальным перемещением.
 	# Default: 1.0
 	verticalVelocitySmoothingFactor = 1.0
+	# Controls global interpolation of the camera's pitch & yaw. Does not affect gameplay (aim).
+	# Default: 1.0
+	cameraSmoothing = 0.0
 
 [vehicles]
 
@@ -128,8 +164,8 @@ configVersion = 2
 	# Default: 5.0
 	strafingRollFactor = 5.0
 	# Интенсивность угловых поворотов камеры, вызванных движением вперёд или назад.
-	# Default: 1.75
-	forwardVelocityPitchFactor = 1.75
+	# Default: 3.5
+	forwardVelocityPitchFactor = 3.5
 	# Интенсивность угловых поворотов камеры, вызванных вертикальной скоростью.
 	# Default: 5.0
 	verticalVelocityPitchFactor = 5.0
@@ -139,3 +175,6 @@ configVersion = 2
 	# Плавность изменения угла наклона камеры, вызванная вертикальным перемещением.
 	# Default: 1.0
 	verticalVelocitySmoothingFactor = 1.0
+	# Controls global interpolation of the camera's pitch & yaw. Does not affect gameplay (aim).
+	# Default: 0.0
+	cameraSmoothing = 0.0
